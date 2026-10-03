@@ -7,7 +7,7 @@ re-centered, meshes simplified and compressed (EXT_meshopt_compression), texture
 
 | File | Original | Author | Source |
 |---|---|---|---|
-| iphone-17-pro.glb | "iPhone 17 Pro" | Ranguel | https://sketchfab.com/3d-models/iphone-17-pro-4541aa8a28324b33a2baaf81d263aaec |
+| iphone-17-pro-max.glb | "IPhone 17 Pro Max" | Taufiq K | https://sketchfab.com/3d-models/iphone-17-pro-max-e7c5674931ae4b0ea1b4eaaabb159fdb |
 | iphone-16-pro-max.glb | "iPhone 16 Pro Max" | MajdyModels | https://sketchfab.com/3d-models/iphone-16-pro-max-41a071ae12794b668502f58d1e0fd1a3 |
 | galaxy-s21-ultra.glb | "Samsung Galaxy S21 Ultra" | DatSketch | https://sketchfab.com/3d-models/samsung-galaxy-s21-ultra-cd962832be7744efb6b37fe0ee2027e7 |
 | ipad-air-11.glb | "Ipad Air 5 (FREE)" | Artbor | https://sketchfab.com/3d-models/628ab0359d774af480be8eda9de70272 |
