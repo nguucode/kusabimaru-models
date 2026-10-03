@@ -11,6 +11,7 @@ re-centered, meshes simplified and compressed (EXT_meshopt_compression), texture
 | iphone-16-pro-max.glb | "iPhone 16 Pro Max" | MajdyModels | https://sketchfab.com/3d-models/iphone-16-pro-max-41a071ae12794b668502f58d1e0fd1a3 |
 | galaxy-s21-ultra.glb | "Samsung Galaxy S21 Ultra" | DatSketch | https://sketchfab.com/3d-models/samsung-galaxy-s21-ultra-cd962832be7744efb6b37fe0ee2027e7 |
 | ipad-air-11.glb | "Ipad Air 5 (FREE)" | Artbor | https://sketchfab.com/3d-models/628ab0359d774af480be8eda9de70272 |
+| ipad-pro-12-9.glb | "Ipad Pro 12.9 (2020)" | Konstantin Koretskyi | https://sketchfab.com/3d-models/ipad-pro-129-2020-f0f7674522124f3bbc2d0f898963457e |
 | surface-pro.glb | "Microsoft Surface Pro 3 + Touch Cover" | MD.Jobair Hossain | https://sketchfab.com/3d-models/microsoft-surface-pro-3-touch-cover-24052379ad2a4a57bd313aef83305dcf |
 | macbook-air-13.glb | "MacBook Air M2" | rtql8d | https://sketchfab.com/3d-models/786fa23d402a4f90ae36c4168997f9cc |
 | macbook-pro-16.glb | "macbook pro M3 16 inch 2024" | jackbaeten | https://sketchfab.com/3d-models/macbook-pro-m3-16-inch-2024-8e34fc2b303144f78490007d91ff57c4 |
